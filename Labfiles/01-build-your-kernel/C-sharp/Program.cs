@@ -3,7 +3,6 @@
 // Import namespaces
 using Microsoft.SemanticKernel;
 
-string filePath = Path.GetFullPath("appsettings.json");
 var config = new ConfigurationBuilder()
     .AddJsonFile(Path.GetFullPath("appsettings.json"))
     .AddJsonFile(Path.GetFullPath("appsettings.local.json"))
