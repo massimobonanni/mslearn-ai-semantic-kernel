@@ -250,7 +250,7 @@ Now you create a prompt template that instructs the AI to suggest suitable roles
         "estimatedSalaryRange": ""
         }
 
-        My skills are: {{skills}}. My interests are: {{interests}}. What are some roles that would be suitable for me?
+        My skills are: {{$skills}}. My interests are: {{$interests}}. What are some roles that would be suitable for me?
         """
     ));
     ```
