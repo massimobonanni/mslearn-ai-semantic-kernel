@@ -1,13 +1,13 @@
 ---
 lab:
-  title: Build a Semantic Kernel object
+  title: Build a Semantic Kernel object (deprecated)
   description: Learn how to build a kernel object that can connect to an AI model and run prompts.
   duration: 10 minutes
   level: 300
-  islab: true
+  islab: false
 ---
 
-# Build a Semantic Kernel object
+# Build a Semantic Kernel object (deprecated)
 
 In this exercise, you create an Azure OpenAI resource and provide the deployment information to the Semantic Kernel. The Semantic Kernel will connect to the endpoint and allow you to run prompts to the large language model (LLM) directly from your code. Let's get started!
 
