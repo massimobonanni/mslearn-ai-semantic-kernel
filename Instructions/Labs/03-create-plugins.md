@@ -1,13 +1,13 @@
 ---
 lab:
-  title: Create Semantic Kernel plugins
+  title: Create Semantic Kernel plugins (deprecated)
   description: Learn how to build an AI flight booking assistant.
   duration: 15 minutes
   level: 300
-  islab: true
+  islab: false
 ---
 
-# Create Semantic Kernel plugins
+# Create Semantic Kernel plugins (deprecated)
 
 In this exercise, you'll use Semantic Kernel to create an AI assistant that can search for and book flights for a user. You'll create custom plugin functions to help accomplish the task. Let's get started!
 
