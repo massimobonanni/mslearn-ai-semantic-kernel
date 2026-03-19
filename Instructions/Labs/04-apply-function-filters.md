@@ -1,13 +1,13 @@
 ---
 lab:
-  title: Apply filters on functions
+  title: Apply filters on functions (deprecated)
   description: Learn how to apply filters on functions with Semantic Kernel.
   duration: 10 minutes
   level: 200
-  islab: true
+  islab: false
 ---
 
-# Apply filters on functions
+# Apply filters on functions (deprecated)
 
 In this exercise, you consume a previous chat conversation between the user and the assistant to generate a new response. To do this, you need to apply a trust filter on the function result. Let's get started!
 
