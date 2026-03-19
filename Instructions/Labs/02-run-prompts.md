@@ -1,13 +1,13 @@
 ---
 lab:
-  title: Run prompts with Semantic Kernel
+  title: Run prompts with Semantic Kernel (deprecated)
   description: Learn how to use prompt templates with Semantic Kernel.
   duration: 15 minutes
   level: 300
-  islab: true
+  islab: false
 ---
 
-# Run prompts with Semantic Kernel
+# Run prompts with Semantic Kernel (deprecated)
 
 In this exercise, you'll use Semantic Kernel to create an AI assistant that suggests suitable roles based on a user's skills and interests, identifies missing skills for a target role, and recommends courses to close the skill gap. You'll deploy a chat completion model in Azure AI Foundry and create a Semantic Kernel client app that builds and runs prompt templates.
 
