@@ -1,13 +1,13 @@
 ---
 lab:
-  title: Create an AI Assistant with Semantic Kernel
+  title: Create an AI Assistant with Semantic Kernel (deprecated)
   description: Learn how to use Semantic Kernel to build a generative AI assistant that can perform DevOps tasks.
   duration: 30 minutes
   level: 400
-  islab: true
+  islab: false
 ---
 
-# Create an AI Assistant with Semantic Kernel
+# Create an AI Assistant with Semantic Kernel (deprecated)
 
 In this lab, you develop the code for an AI-powered assistant designed to automate development operations and help streamline tasks. You use the Semantic Kernel SDK to build the AI assistant and connect it to the large language model (LLM) service. The Semantic Kernel SDK allows you to create a smart application that can interact with the LLM service, respond to natural language queries, and provide personalized insights to the user. For this exercise, mock functions are provided to represent typical devops tasks. Let's get started!
 
