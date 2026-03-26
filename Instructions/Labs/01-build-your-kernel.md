@@ -22,7 +22,7 @@ This exercise takes approximately **10** minutes to complete.
 1. In the home page, in the **Explore models and capabilities** section, search for the `gpt-4o` model; which we'll use in our project.
 1. In the search results, select the **gpt-4o** model to see its details, and then at the top of the page for the model, select **Use this model**.
 1. When prompted to select your project, open the combo box and click on **+ Create a new project**, enter a valid name for your project and expand **Advanced options**.
-1. Select **Customize** and specify the following settings for your hub:
+1. Specify the following settings for your project:
     - **Azure AI Foundry resource**: *A valid name for your Azure AI Foundry resource*
     - **Subscription**: *Your Azure subscription*
     - **Resource group**: *Create or select a resource group*
@@ -30,8 +30,9 @@ This exercise takes approximately **10** minutes to complete.
 
     > \* Some Azure AI resources are constrained by regional model quotas. In the event of a quota limit being exceeded later in the exercise, there's a possibility you may need to create another resource in a different region.
 
-1. Select **Create** and wait for your project, including the gpt-4o model deployment you selected, to be created.
-1. When your project is created, the chat playground will be opened automatically.
+1. Select **Create and continue** and wait for your project to be created.
+1. After the project is created, the template deployment pop-up appears. Select **Deploy** to create the deployment.
+1. When your deployment is created, the **Details** page of the deployment will be opened automatically.
 1. In the navigation pane on the left, select **Overview** to see the main page for your project; which looks like this:
 
     > **Note**: If an *Insufficient permissions** error is displayed, use the **Fix me** button to resolve it.
